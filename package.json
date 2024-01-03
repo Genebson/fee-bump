@@ -1,0 +1,21 @@
+{
+  "name": "fee-bump",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eventsource": "^1.1.0",
+    "node-fetch": "^3.1.0",
+    "requirejs": "^2.3.6",
+    "stellar-sdk": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^3.0.3"
+  }
+}
